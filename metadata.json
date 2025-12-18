@@ -1,0 +1,5 @@
+{
+  "name": "AI Safety Training Quiz",
+  "description": "An interactive quiz application about AI ethics, safety, and usage based on company training materials, featuring an AI chat assistant and reactive visualizations.",
+  "requestFramePermissions": []
+}
